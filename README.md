@@ -1,5 +1,5 @@
 <h1 align="center">
-    EDUTOPIA
+    EDUKART
 </h1>
 
 <h3 align="center">
